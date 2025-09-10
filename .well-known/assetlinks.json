@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.navarrotech.support",
+      "sha256_cert_fingerprints": [
+        "C4:D2:83:8B:4E:F8:D7:F7:93:9F:FB:1C:52:62:99:36:F4:8E:1D:3E:A0:E1:90:26:56:A3:3F:70:98:CB:76:52"
+      ]
+    }
+  }
+]
